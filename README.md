@@ -14,8 +14,8 @@ Most businesses collect data but can't analyze it — hiring data analysts is ex
 
 > Upload any CSV → Auto clean → ML Analysis → Interactive Dashboard → Ask anything
 
-![Dashboard Overview](<img width="1902" height="815" alt="Screenshot 2026-05-24 003004" src="https://github.com/user-attachments/assets/3b58bb5d-b4cc-4bc1-9209-b8d1abf28d9c" />
-)
+<img width="1902" height="815" alt="Screenshot 2026-05-24 003004" src="https://github.com/user-attachments/assets/27458163-a7fb-4274-a166-c5832253f232" />
+
 
 ---
 
